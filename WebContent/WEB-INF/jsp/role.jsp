@@ -9,8 +9,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=emulateIE7" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta charset="utf-8">
 <link rel="stylesheet" href="<%=path %>/css/sapar.css" />
 
 <script type="text/javascript" src="<%=path %>/js/jquery.js"></script>
@@ -47,7 +45,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 						</div>
 					</div>
 					<div class="kv-item clearfix">
-						<label>地&nbsp;&nbsp;&nbsp;区：</label>
+						<label>部&nbsp;&nbsp;&nbsp;门：</label>
 						<div class="kv-item-content">
 							<select>
 								<option>南宁</option>

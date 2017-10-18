@@ -129,8 +129,8 @@ var $dp, WdatePicker;
 	else
 		G = true;
 	A = $.$dpPath || J();
-	if ($.$wdate)
-		K(A + "skin/WdatePicker.css");
+	/*if ($.$wdate)
+		K(A + "skin/WdatePicker.css");*/
 	V = Y;
 	if ($.$crossFrame) {
 		try {

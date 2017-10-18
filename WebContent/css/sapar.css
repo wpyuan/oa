@@ -208,7 +208,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family:tahoma, arial, 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', '宋体', sans-serif;
+  font-family:tahoma, arial, 'Hiragino Sans GB', 'Microsoft YaHei', '寰蒋闆呴粦', '瀹嬩綋', sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -364,7 +364,7 @@ cite {
 }
 body {
   background: #fff;
-  font: 12px/1.5 tahoma, arial, 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', '宋体', sans-serif;;
+  font: 12px/1.5 tahoma, arial, 'Hiragino Sans GB', 'Microsoft YaHei', '寰蒋闆呴粦', '瀹嬩綋', sans-serif;;
   color: #000;
 }
 h1,
@@ -456,7 +456,7 @@ li {
   margin-right: 5px;
 }
 /*====================================
-  表单样式
+  琛ㄥ崟鏍峰紡
   ===================================*/
 .kv-item {
   margin-bottom: 10px;
@@ -483,7 +483,7 @@ li {
 .kv-item .input:first-child {
   margin-top: 0;
 }
-/*输入框，文本域， 密码输入框样式*/
+/*杈撳叆妗嗭紝鏂囨湰鍩燂紝 瀵嗙爜杈撳叆妗嗘牱寮�*/
 .kv-item input[type=text],
 .kv-item textarea,
 .kv-item input[type=password],
@@ -519,7 +519,7 @@ li {
   width: 271px;
   height: 30px;
 }
-/*表单中的radio框以及checkbox框的样式*/
+/*琛ㄥ崟涓殑radio妗嗕互鍙奵heckbox妗嗙殑鏍峰紡*/
 .kv-item .choose {
   line-height: 30px;
   margin-right: 10px;
@@ -530,7 +530,7 @@ li {
   top: 2px;
   *top: 1px;
 }
-/*下拉框样式*/
+/*涓嬫媺妗嗘牱寮�*/
 .iselect-wrapper {
   position: relative;
   width: 244px;
@@ -557,7 +557,7 @@ li {
   outline: 0 none;
   z-index: 2;
 }
-/*一段区域数值输入（比如时间段，数字段等）*/
+/*涓�娈靛尯鍩熸暟鍊艰緭鍏ワ紙姣斿鏃堕棿娈碉紝鏁板瓧娈电瓑锛�*/
 .kv-item.interval input[type=text],
 .kv-item .interval input[type=text] {
   float: left;
@@ -568,7 +568,7 @@ li {
   margin: 0 5px;
   color: #666;
 }
-/*表单中的提示信息*/
+/*琛ㄥ崟涓殑鎻愮ず淇℃伅*/
 .kv-item-tip {
   float: left;
   margin-left: 20px;
@@ -833,7 +833,7 @@ input[type=color]:focus {
   background: #DCF0FC !important;
 }
 /*====================================
-  分页样式
+  鍒嗛〉鏍峰紡
   ===================================*/
 .pagination a {
   text-decoration: none;
@@ -863,7 +863,7 @@ input[type=color]:focus {
 .pagination .next {
   *line-height: 22px;
 }
-/*分页*/
+/*鍒嗛〉*/
 .pagination a {
   color: #000000;
   border-color: #8EB2D2;
@@ -928,7 +928,7 @@ input[type=color]:focus {
   border-radius: 1px;
   background: #fff;
 }
-/***** æ ‡é¢˜åŒºåŸŸ *****/
+/***** 忙聽鈥∶┞⑺溍ヅ捖好ヅ概� *****/
 .ui-dialog-hd {
   position: absolute;
   left: 0;
@@ -955,7 +955,7 @@ input[type=color]:focus {
 .ui-dialog-hd .ui-dialog-close:hover i {
   background: url("../images/close4.png");
 }
-/*** æ ‡é¢˜æ–‡å­—åŒºåŸŸ ***/
+/*** 忙聽鈥∶┞⑺溍︹�撯�∶ヂ�斆ヅ捖好ヅ概� ***/
 .ui-dialog-hd h6 {
   height: 40px;
   left: 0;
@@ -966,7 +966,7 @@ input[type=color]:focus {
   color: #fff;
   font-size: 14px;
 }
-/***** å¼¹çª—æŒ‰é’®  *****/
+/***** 氓录鹿莽陋鈥斆ε掆�懊┾�櫬�  *****/
 .ui-dialog-ft {
   position: absolute;
   bottom: 5px;
@@ -980,7 +980,7 @@ input[type=color]:focus {
 .ui-dialog-ft button {
   margin: 6px 15px 0 -10px;
 }
-/***** ç‰¹æ®Šä¿¡æ¯å¼¹å‡ºæ¡† *****/
+/***** 莽鈥奥姑β犆ぢ柯∶β伮ヂ悸姑モ�÷好β♀�� *****/
 .ui-dialog-icon {
   float: left;
   width: 78px;
@@ -992,7 +992,7 @@ input[type=color]:focus {
 .ui-dialog-warning .ui-dialog-icon{background-position:-48px 0;}
 .ui-dialog-success .ui-dialog-icon{background-position:-96px 0;}
 .ui-dialog-error .ui-dialog-icon{background-position:-144px 0;}*/
-/*** ç‰¹æ®Šä¿¡æ¯æ˜¾ç¤º ***/
+/*** 莽鈥奥姑β犆ぢ柯∶β伮λ溌久ぢ� ***/
 .ui-dialog-text {
   float: left;
   display: table-cell;
@@ -1020,7 +1020,7 @@ input[type=color]:focus {
   width: 0;
   height: 100%;
 }
-/***** å¼¹çª—é‡Œæœ‰è¡¨å• *****/
+/***** 氓录鹿莽陋鈥斆┾�∨捗ε撯�懊÷ヂ嶁�� *****/
 .ui-dialog-panel .formDialog {
   display: none;
   padding: 20px 15px;
@@ -1160,7 +1160,7 @@ input[type=color]:focus {
   color: #843534;
 }
 .tab-container {
-  font-family: '微软雅黑';
+  font-family: '寰蒋闆呴粦';
 }
 .tab-container .tab {
   overflow: hidden;
@@ -1196,7 +1196,7 @@ input[type=color]:focus {
   z-index: 1070;
   display: block;
   visibility: visible;
-  font-family: tahoma, arial, 'Hiragino Sans GB', '宋体', sans-serif;
+  font-family: tahoma, arial, 'Hiragino Sans GB', '瀹嬩綋', sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -1303,7 +1303,7 @@ input[type=color]:focus {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: tahoma, arial, 'Hiragino Sans GB', '宋体', sans-serif;
+  font-family: tahoma, arial, 'Hiragino Sans GB', '瀹嬩綋', sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
@@ -1420,7 +1420,7 @@ input[type=color]:focus {
   border-bottom: 2px solid #E6E6E6;
   position: relative;
 }
-/*宽度根据100%步数*100%*/
+/*瀹藉害鏍规嵁100%姝ユ暟*100%*/
 .steps ol li {
   display: inline;
   float: left;
@@ -1429,7 +1429,7 @@ input[type=color]:focus {
   font-size: 16px;
   font-weight: bold;
   color: #999;
-  font-family: "微软雅黑", "华文细黑", "黑体", arial;
+  font-family: "寰蒋闆呴粦", "鍗庢枃缁嗛粦", "榛戜綋", arial;
 }
 .steps ol li i {
   display: inline-block;
@@ -1450,7 +1450,7 @@ input[type=color]:focus {
   font-size: 16px;
   font-weight: bold;
   color: #999;
-  font-family: "微软雅黑", "华文细黑", "黑体", arial;
+  font-family: "寰蒋闆呴粦", "鍗庢枃缁嗛粦", "榛戜綋", arial;
 }
 .steps ol li.active {
   color: #3E3E3E;
@@ -1520,7 +1520,7 @@ input[type=color]:focus {
   _float: none;
 }
 .xulayer_png32 {
-  background: url("../images/layer/xubox_ico0.png") no-repeat;
+  background: url("../images/xubox_ico0.png") no-repeat;
 }
 .xubox_moves {
   border: 3px solid #666;
@@ -1534,7 +1534,7 @@ input[type=color]:focus {
   height: 32px;
   top: 52px;
   left: 15px;
-  background: url("../images/layer/xubox_ico0.png") no-repeat;
+  background: url("../images/xubox_ico0.png") no-repeat;
 }
 .xubox_text {
   padding-left: 55px;
@@ -1711,7 +1711,7 @@ input[type=color]:focus {
   position: absolute;
   bottom: 10px;
   left: 50%;
-  background: url("../images/layer/xubox_ico0.png") repeat;
+  background: url("../images/xubox_ico0.png") repeat;
   text-decoration: none;
   color: #FFF;
   font-size: 14px;
